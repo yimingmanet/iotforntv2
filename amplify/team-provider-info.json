@@ -1,0 +1,18 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-iotdashboardv1-dev-230720-authRole",
+            "UnauthRoleArn": "arn:aws:iam::493904347504:role/amplify-iotdashboardv1-dev-230720-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::493904347504:role/amplify-iotdashboardv1-dev-230720-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-iotdashboardv1-dev-230720-deployment",
+            "UnauthRoleName": "amplify-iotdashboardv1-dev-230720-unauthRole",
+            "StackName": "amplify-iotdashboardv1-dev-230720",
+            "StackId": "arn:aws:cloudformation:us-east-1:493904347504:stack/amplify-iotdashboardv1-dev-230720/49a7b960-06ec-11ec-b43a-0a678302cb6b",
+            "AmplifyAppId": "d3vaj24dauufpo"
+        },
+        "categories": {
+            "hosting": {}
+        }
+    }
+}

@@ -1,0 +1,7 @@
+type DeviceMessage @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  deviceid: String!
+  hum: Float!
+  tem: Float!
+  timestamp: AWSTimestamp!
+}
